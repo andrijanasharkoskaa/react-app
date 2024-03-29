@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         I need to set up automatic deployment now. Hiiiiiii
+         I need to set up automatic deployment now. Hello
         </p>
         <a
           className="App-link"
