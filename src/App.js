@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Automatic Deployment is Set Up! Testing Email Notification!
+         Automatic Deployment is Set Up! Final Testing!
         </p>
         <a
           className="App-link"
